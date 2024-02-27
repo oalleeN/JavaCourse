@@ -1,3 +1,5 @@
+package Exercícios_while;
+
 import java.util.Scanner;
 
 public class EstruturaRptWhile {
