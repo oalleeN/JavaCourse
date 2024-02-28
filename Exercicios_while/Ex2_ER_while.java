@@ -17,7 +17,7 @@ public class Ex2_ER_while {
         int y = sc.nextInt();
 
 
-        String rsp = "";
+        String rsp = "Error!";
 
         while (x != 0 && y != 0){
             if (x > 1 && y > 1){
