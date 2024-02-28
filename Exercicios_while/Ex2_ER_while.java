@@ -16,10 +16,8 @@ public class Ex2_ER_while {
         System.out.print("Digite o valor de Y: ");
         int y = sc.nextInt();
 
-
-        String rsp = "Error!";
-
         while (x != 0 && y != 0){
+            String rsp;
             if (x > 1 && y > 1){
                 rsp = "Primeiro quadrante";
 
