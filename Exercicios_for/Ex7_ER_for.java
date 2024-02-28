@@ -11,11 +11,10 @@ public class Ex7_ER_for {
 
         int n = sc.nextInt();
         for (int i=1 ; i<=n ; i++){
-            int v1 = i;
-            int v2 = (int) Math.pow(i, 2);
-            int v3 = (int) Math.pow(i, 3);
+            int v1 = (int) Math.pow(i, 2);
+            int v2 = (int) Math.pow(i, 3);
 
-            System.out.printf("%d %d %d%n", v1, v2, v3);
+            System.out.printf("%d %d %d%n", i, v1, v2);
         }
 
         sc.close();
