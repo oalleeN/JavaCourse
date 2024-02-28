@@ -1,4 +1,4 @@
-package Exercícios_while;
+package Exercicios_while;
 
 ///Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema
 //cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo

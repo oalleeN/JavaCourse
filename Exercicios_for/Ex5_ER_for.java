@@ -1,6 +1,5 @@
-package Exercicio_for;
+package Exercicios_for;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 ///Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.

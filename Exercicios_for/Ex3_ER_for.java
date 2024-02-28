@@ -1,4 +1,4 @@
-package Exercicio_for;
+package Exercicios_for;
 
 import java.util.Locale;
 import java.util.Scanner;

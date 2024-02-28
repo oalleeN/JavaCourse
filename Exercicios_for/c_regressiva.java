@@ -1,4 +1,4 @@
-package Exercicio_for;
+package Exercicios_for;
 
 public class c_regressiva {
     public static void main(String[] args) {
