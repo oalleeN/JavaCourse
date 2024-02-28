@@ -18,4 +18,4 @@ public class aula_for {
 
         sc.close();
     }
-}
+} /// sou o Alan
