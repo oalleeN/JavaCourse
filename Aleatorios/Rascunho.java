@@ -1,3 +1,4 @@
+package Aleatorios;
 
 import java.util.Scanner;
 

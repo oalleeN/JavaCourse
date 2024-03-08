@@ -1,3 +1,5 @@
+package EstruturaCondicional;
+
 import java.util.Scanner;
 
 public class EstruturaCondicional {

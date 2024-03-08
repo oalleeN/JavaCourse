@@ -1,3 +1,5 @@
+package Aleatorios;
+
 public class MatFunction {
     public static void main(String[] args) {
 

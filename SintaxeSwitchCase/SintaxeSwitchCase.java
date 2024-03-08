@@ -1,7 +1,9 @@
+package SintaxeSwitchCase;
+
 import java.util.Scanner;
 
 /// Switch case
-public class EstruturaOpc {
+public class SintaxeSwitchCase {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);

@@ -1,3 +1,5 @@
+package Aleatorios;
+
 import java.util.Locale;
 
 public class Ex1 {

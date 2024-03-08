@@ -11,7 +11,7 @@ public class programa {
         Scanner sc = new Scanner(System.in);
 
         Triangle x, y;
-        x = new Triangle();
+        x = new Triangle(); // declarei a variável no pacote Triangle
         y = new Triangle();
 
         System.out.println("Enter the measures of triangle X: ");
